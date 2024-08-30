@@ -9,7 +9,8 @@ CurioSense is an eCommerce website designed to offer educational products and co
 ## Introduction
 CurioSense aims to provide a comprehensive platform for parents to find educational products and participate in events that foster learning and development for their children.
 
-<img src="https://i.pinimg.com/736x/f0/0e/84/f00e84ebdee95db608b78f64a7db244d.jpg">
+<img src="https://i.pinimg.com/736x/f0/0e/84/f00e84ebdee95db608b78f64a7db244d.jpg" height="300">
+
 ## Features
 - **Product Listing and Purchasing**: Browse and buy educational toys, learning cards, kids' clothing, and books.
 - **Event Scheduling and Management**: Schedule and manage educational workshops, toy fairs, online learning sessions, and birthday parties.
