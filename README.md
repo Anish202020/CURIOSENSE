@@ -1,4 +1,7 @@
-# CurioSense eCommerce Website Documentation
+# CurioSense E-Commerce Website 
+<img src="https://i.ibb.co/BzvzZcB/2.png" alt="2" border="0">
+
+
 ## Overview
 
 <img src="https://i.ibb.co/fXPdQwX/logo.jpg" width="150" height="150">
@@ -8,8 +11,13 @@ CurioSense is an eCommerce website designed to offer educational products and co
 
 ## Introduction
 CurioSense aims to provide a comprehensive platform for parents to find educational products and participate in events that foster learning and development for their children.
-
+## Flow Diagram
+<details>
+  <summary>Click to See The DataFlow Diagram</summary>
 <img src="https://i.pinimg.com/736x/f0/0e/84/f00e84ebdee95db608b78f64a7db244d.jpg" height="300">
+
+The Above is the Dataflow Diagram of CurioSense
+</details>
 
 ## Features
 - **Product Listing and Purchasing**: Browse and buy educational toys, learning cards, kids' clothing, and books.
