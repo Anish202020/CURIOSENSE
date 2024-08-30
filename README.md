@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# CurioSense eCommerce Website Documentation
+## Overview
 
-## Getting Started
+<img src="https://i.ibb.co/fXPdQwX/logo.jpg" width="150" height="150">
 
-First, run the development server:
+CurioSense is an eCommerce website designed to offer educational products and conduct events for kids. The platform provides a seamless experience for parents to purchase educational toys, learning cards, kids' clothing, and books, as well as schedule and manage various educational events.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Introduction
+CurioSense aims to provide a comprehensive platform for parents to find educational products and participate in events that foster learning and development for their children.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+<img src="https://i.pinimg.com/736x/f0/0e/84/f00e84ebdee95db608b78f64a7db244d.jpg">
+## Features
+- **Product Listing and Purchasing**: Browse and buy educational toys, learning cards, kids' clothing, and books.
+- **Event Scheduling and Management**: Schedule and manage educational workshops, toy fairs, online learning sessions, and birthday parties.
+- **User Account Management**: Create and manage user accounts for a personalized experience.
+## Product Offerings
+CurioSense offers a variety of products aimed at enhancing children's learning experiences:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Educational Toys**
+- **Learning Cards**
+- **Kids' Clothing**
+- **Books**
+## Events
+CurioSense conducts various events to engage children in educational activities:
 
-## Learn More
+- **Educational Workshops**
+- **Toy Fairs**
+- **Online Learning Sessions**
+- **Birthday Parties**
+## User Guide
+### Account Creation
+1. Navigate to the Sign-Up page.
+2. Fill in the required details.
+3. Verify your email address.
+4. Log in to your new account.
+### Purchasing Products
+1. Browse the product categories.
+2. Select a product to view its details.
+3. Add the product to your cart.
+4. Proceed to checkout and complete the payment process.
+### Scheduling Events
+1. Navigate to the Events section.
+2. Select an event to view its details.
+3. Register for the event by filling in the required information.
+4. Confirm your registration.
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contributing
+We welcome contributions from the community. Please follow the guidelines below:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Commit your changes with a descriptive message.
+4. Push your changes to your fork.
+5. Submit a pull request.
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
