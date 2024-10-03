@@ -1,5 +1,5 @@
 # CurioSense E-Commerce Website 
-<img src="https://i.ibb.co/BzvzZcB/2.png" alt="2" border="0">
+<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Banner/Banner-1/5.png" alt="2" border="0">
 
 
 ## Overview
