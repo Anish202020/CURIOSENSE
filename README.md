@@ -14,7 +14,7 @@ CurioSense aims to provide a comprehensive platform for parents to find educatio
 ## Flow Diagram
 <details>
   <summary>Click to See The DataFlow Diagram</summary>
-<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Dataflow/curiosense.png" height="300">
+<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Dataflow/curiosense.png">
 
 The Above is the Dataflow Diagram of CurioSense
 </details>
