@@ -1,10 +1,10 @@
 # CurioSense E-Commerce Website 
-<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Banner/Banner-1/5.png" alt="2" border="0">
+<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Banner/Banner-1/Web%20Development/5.png" alt="2" border="0">
 
 
 ## Overview
 
-<img src="https://i.ibb.co/fXPdQwX/logo.jpg" width="150" height="150">
+<img src="https://i.ibb.co/fXPdQwX/logo.jpg" width="140" height="140">
 
 CurioSense is an eCommerce website designed to offer educational products and conduct events for kids. The platform provides a seamless experience for parents to purchase educational toys, learning cards, kids' clothing, and books, as well as schedule and manage various educational events.
 
